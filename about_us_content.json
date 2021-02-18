@@ -24,5 +24,47 @@
             "statement": "Sanjeev is a development professional with 26+ years of experience in the field of CSR, Sustainability, Land Acquisition and Resettlement & Rehabilitation of project affected/displaced families combining with the ability for maintaining conducive industrial atmosphere among the stakeholders to obtain organizational objectives through different ways & means adhering to national/international policies and practices. At JointValues he brings extensive experience in ESG, Sustainability and CSR as a Pro-Bono Advisor in ESG and Business Process Development.",
             "link": "20"
         }
+    ],
+
+    "PROCESS_DEVELOPMENT": [
+        {
+            "name": "Adwit Kashyap",
+            "position": "Pro-Bono Advisor (ESG and Business Development)",
+            "statement": "Adwit is an experienced hand in consulting, business development and program management with a demonstrated history of working in the sustainable development space. With a bachelor’s degree from IIT Bombay and a business degree from the Indian School of Business (ISB), he brings an extensive experience of working with corporates, government and multilateral agencies in the Indian market.",
+            "link": "20"
+        },
+        {
+            "name": "Vikrant Malik",
+            "position": "Pro-Bono Advisor (Technology and Innovation)",
+            "statement": "Vikrant is a seasoned professional in IT infrastructure management, client relations, communicating with project stakeholders, audits and project management. With advanced qualifications in IT and 14 years of work experience in the technological industry, he is a mentor on IT Infrastructure and Software development team at JointValues.",
+            "link": "20"
+        },
+        {
+            "name": "Vishal Kaushik",
+            "position": "Pro-Bono Advisor (Technology and Innovation)",
+            "statement": "Vishal Kaushik is teaching at the School of Computer Science and Engineering, University of Petroleum and Energy Studies, Dehradun. With 20 plus years of experience in electronic data processing, software development and IT enablement of services industry at multiple functional roles he is a mentor on IT Infrastructure and Software development team at JointValues.",
+            "link": "20"
+        }
+    ],
+
+    "TEAM_MEMBERS": [
+        {
+            "name": "Shivani Verma",
+            "position": "Content Developer",
+            "statement": "Shivani Verma is a student at Indian Institute of Forest Management (IIFM), Bhopal, currently pursuing Post Graduate Diploma in Forestry Management (PGDFM). Having knowledge of ESG and Sustainability, equipped with the skill of mass communication, she is a part of vibrant team at JointValues as a content developer.",
+            "link": "20"
+        },
+        {
+            "name": "Vedanshi Singh",
+            "position": "Climate Change Disclosures Analyst & Media Outreach Handler",
+            "statement": "Vedanshi is a budding professional with a study in health effects of climate-change from Harvard University and self-gained experience of start-up ecosystems in India. An experienced hand in analysis and assessment of public disclosures by the companies on climate change-related financial impacts in line with TCFD Framework",
+            "link": "20"
+        },
+        {
+            "name": "Anjan Das",
+            "position": "ESG Research and Analysis",
+            "statement": "Anjan is pursuing his MBA in Sustainable Management from the Indian Institute of Management Lucknow. He is an Electrical and Electronics Engineer and has worked on Systems design, Application development, and Client management for 4.4 years. He is part of the ESG Research and Analysis team at JointValues for ESG Analysis and Ratings.",
+            "link": "20"
+        }
     ]
  }
