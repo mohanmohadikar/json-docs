@@ -1,22 +1,28 @@
 {
-    "person": [
+    "CENTRAL_ADVISORY": [
         {
-            "firstName": "Clark",
-            "lastName": "Kent",
-            "job": "Reporter",
-            "roll": 20
+            "name": "Praveen Anant",
+            "position": "Pro-Bono Advisor (ESG and Business Process Development)",
+            "statement": "Praveen is an ESG and Business Excellence expert with over 20 years of extensive experience of working with corporates. With master’s degree in Environmental Science and Engineering and a bachelor’s degree in Laws, he brings the experience of management systems and non-financial disclosures using GRI standards, SDGs, UN Global Compact, IFC E&S Standards, World Bank’s Environment and Social Standard.",
+            "link": "20"
         },
         {
-            "firstName": "Bruce",
-            "lastName": "Wayne",
-            "job": "Playboy",
-            "roll": 30
+            "name": "Karthik Bharath Kumar",
+            "position": "Pro-Bono Advisor (Sustainable Finance Solutions)",
+            "statement": "Karthik has a demonstrated history of 12 years of experience in corporate finance and regulatory functions. With bachelor’s in Mechanical Engineering from Purdue University and MBA in Finance from Indian School of Business Hyderabad, he brings strong professional skills in general management, policy, regulations, credit analysis, and credit ratings. Having experience in project finance and investor relations, he is pro-bono advisor at JointValues for sustainable finance solutions and team building.",
+            "link": "20"
         },
         {
-            "firstName": "Peter",
-            "lastName": "Parker",
-            "job": "Photographer",
-            "roll": 40
+            "name": "Sarvashish Roy",
+            "position": "Pro-Bono Advisor (ESG and Business Process Development)",
+            "statement": "Sarvashish holds a post-masters certificate in Natural Resource Management from Indian Institute of Forest Management, Bhopal and master’s degree in Anthropology from the University of Calcutta. He has more than 17 years of experience in corporate social responsibility and non-financial disclosures with corporates, academic institutes and not for profit organisations. At JointValues he brings on board the expertise to evaluate the BRR, the International <IR> Framework and Sustainability Reporting based on the Global Reporting Initiative (GRI) Standards",
+            "link": "20"
+        },
+        {
+            "name": "Sanjeev Tripathy",
+            "position": "Pro-Bono Advisor (ESG and Business Process Development)",
+            "statement": "Sanjeev is a development professional with 26+ years of experience in the field of CSR, Sustainability, Land Acquisition and Resettlement & Rehabilitation of project affected/displaced families combining with the ability for maintaining conducive industrial atmosphere among the stakeholders to obtain organizational objectives through different ways & means adhering to national/international policies and practices. At JointValues he brings extensive experience in ESG, Sustainability and CSR as a Pro-Bono Advisor in ESG and Business Process Development.",
+            "link": "20"
         }
     ]
  }
