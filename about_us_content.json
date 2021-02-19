@@ -66,5 +66,23 @@
             "statement": "Anjan is pursuing his MBA in Sustainable Management from the Indian Institute of Management Lucknow. He is an Electrical and Electronics Engineer and has worked on Systems design, Application development, and Client management for 4.4 years. He is part of the ESG Research and Analysis team at JointValues for ESG Analysis and Ratings.",
             "link": "20"
         }
+    ],
+
+    "LEARN_MORE": [
+        {
+            "text":"INVESTING IN NATURE: THE CASE FOR BIODIVERSITY FINANCE",
+            "img_url":"assets/img/nature.jpg",
+            "visit_link":"https://google.com"
+        },
+        {
+            "text":"LEARNINGS FROM THE COVID-19 CRISIS: STRESSING THE “G” IN ESG",
+            "img_url":"assets/img/nature.jpg",
+            "visit_link":"https://google.com"
+        },
+        {
+            "text":"ESG CONSIDERATIONS AND THEIR IMPACT ON INFRASTRUCTURE IN INDIA",
+            "img_url":"assets/img/nature.jpg",
+            "visit_link":"https://google.com"
+        }
     ]
  }
