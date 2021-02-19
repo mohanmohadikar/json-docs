@@ -71,17 +71,17 @@
     "LEARN_MORE": [
         {
             "text":"INVESTING IN NATURE: THE CASE FOR BIODIVERSITY FINANCE",
-            "img_url":"assets\/img\/nature.jpg",
+            "img_class":"learn-more-img-1",
             "visit_link":"https://google.com"
         },
         {
             "text":"LEARNINGS FROM THE COVID-19 CRISIS: STRESSING THE “G” IN ESG",
-            "img_url":"assets/img/nature.jpg",
+            "img_class":"learn-more-img-2",
             "visit_link":"https://google.com"
         },
         {
             "text":"ESG CONSIDERATIONS AND THEIR IMPACT ON INFRASTRUCTURE IN INDIA",
-            "img_url":"assets/img/nature.jpg",
+            "img_class":"learn-more-img-3",
             "visit_link":"https://google.com"
         }
     ]
